@@ -7,7 +7,7 @@ This Jupyter notebook provides an analysis of house sales in King County, USA. T
 
 ## Table of Contents
 
-> **Note:** The following sections will guide you through the process.
+> **Note:** The following sections will guide you through the process **Inside the Jupyter Notebook
 
 - [Module 1: Importing Data](#module-1-importing-data-sets)
 - [Module 2: Data Wrangling](#module-2-data-wrangling)
